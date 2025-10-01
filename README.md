@@ -1,9 +1,10 @@
 # BikeRideGreen Privacy Policy
+# BikeRideGreen Policies
 
-This repository hosts the official Privacy Policy for the **BikeRideGreen** iOS app.
+This repository hosts the official **Privacy Policy** and **Support Page** for the BikeRideGreen iOS app.
 
-The Privacy Policy is available here:  
-➡️ [View Privacy Policy](https://bikeridegreen.github.io/bikeridegreen-privacy/BikeRideGreen_PrivacyPolicy.html)
+- 📄 [Privacy Policy](https://bikeridegreen.github.io/bikeridegreen-privacy/BikeRideGreen_PrivacyPolicy.html)  
+- 💬 [Support Page](https://bikeridegreen.github.io/bikeridegreen-privacy/Support.html)
 
 ---
 
