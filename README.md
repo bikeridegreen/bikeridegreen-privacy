@@ -28,4 +28,4 @@ This repository exists only to publish and maintain the Privacy & Support polici
 
 ## 📧 Contact
 If you have any questions, please reach out:  
-**Email:** [vasilefg@gmail.com](mailto:vasilefg@gmail.com)
+**Email:** [bikeridegreen.app@gmail.com](mailto:bikeridegreen.app@gmail.com)
