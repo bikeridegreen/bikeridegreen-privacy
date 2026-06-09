@@ -1,31 +1,21 @@
-# BikeRideGreen Policies
+# Bike Ride Green Privacy Redirect
 
-This repository hosts the official **Privacy Policy** and **Support Page** for the **BikeRideGreen** iOS app.
+This repository previously hosted the Bike Ride Green privacy and support pages.
 
----
+The official Bike Ride Green website is now:
 
-## 📄 Privacy Policy
-You can view the full Privacy Policy here:  
-➡️ [BikeRideGreen Privacy & Safety Policy](https://bikeridegreen.github.io/bikeridegreen-privacy/BikeRideGreen_PrivacySafety.html)
+https://bike.thegreenportfolio.ca/
 
----
+The official Privacy & Safety Policy is now:
 
-## 💬 Support Page
-Need help or have questions? Visit the support page:  
-➡️ [BikeRideGreen Support](https://bikeridegreen.github.io/bikeridegreen-privacy/Support.html)
+https://bike.thegreenportfolio.ca/privacy.html# Bike Ride Green Privacy Redirect
 
----
+This repository previously hosted the Bike Ride Green privacy and support pages.
 
-## ℹ️ About
-**BikeRideGreen** is a simple cycling tracker app.  
-- Works completely offline  
-- No account required  
-- No personal data collected or shared  
+The official Bike Ride Green website is now:
 
-This repository exists only to publish and maintain the Privacy & Support policies for App Store compliance.
+https://bike.thegreenportfolio.ca/
 
----
+The official Privacy & Safety Policy is now:
 
-## 📧 Contact
-If you have any questions, please reach out:  
-**Email:** [support@thegreenportfolio.ca](mailto:support@thegreenportfolio.ca)
+https://bike.thegreenportfolio.ca/privacy.html
